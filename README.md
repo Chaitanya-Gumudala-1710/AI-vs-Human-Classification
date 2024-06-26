@@ -1,4 +1,5 @@
-# Natural Language Processing Project
+# Natural Language Processing Project - AI vs Human Classification
+
 
 ## Project Description
 The aim of this project is to classify text as either written by AI or by a human.
